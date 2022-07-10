@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on Python
 - 🤔 I’m looking for help with Machine Learning
-- 📫 How to reach me: saramorais024@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love read
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=saram0rais" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=saram0rais" height="150" alt="languages graph"  />
