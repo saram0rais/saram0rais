@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Python
 - 🤔 I’m looking for help with Machine Learning
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love read
+- ⚡ Fun fact: I am always open to new experiences and committed to developing new skills
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=saram0rais" height="150" alt="stats graph"  />
