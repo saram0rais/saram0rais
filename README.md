@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on Python
+- 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with Machine Learning
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am always open to new experiences and committed to developing new skills
@@ -34,10 +33,6 @@
   </a>
   <a href="saramorais024@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/sasararte/?hl=pt-br" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
 </div>
 
 ###
