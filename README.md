@@ -12,8 +12,6 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/saram0rais/saram0rais/blob/main/picasion.com_198799479cc30eb4cadf3eb73ebe965c.gif?raw=true"  />
-
 ###
 
 <div align="center">
