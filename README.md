@@ -39,6 +39,4 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/saram0rais/saram0rais/blob/output/github-contribution-grid-snake.svg)
-
 ###
