@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning Python
-- 🤔 I’m looking for help with Java
+- 🤔 I’m looking for help with C#
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am always open to new experiences and committed to developing new skills
 
