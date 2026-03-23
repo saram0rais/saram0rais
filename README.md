@@ -19,14 +19,15 @@
   <tr>
     <td>
       Hello! I'm **Sara Santos**, a Data Science student.
-    
-      - Studying Data Science and Software Development
-      - Currently learning: C#, Python, SQL, Data Analysis
-      - Interested in Data Science, Analytics & Development
-      - Hobby: Read
+
+- Studying Data Science and Software Development
+- Currently learning: C#, Python, SQL, Data Analysis
+- Interested in Data Science, Analytics & Development
+- Hobby: Read
+
     </td>
     <td>
-      <img src="https://i.pinimg.com/originals/90/51/cd/9051cd1699d8afa08225fdb6cd8ca1f4.gif" width="250">
+      <img src="https://i.pinimg.com/originals/90/51/cd/9051cd1699d8afa08225fdb6cd8ca1f4.gif" width="250>
     </td>
   </tr>
 </table>
