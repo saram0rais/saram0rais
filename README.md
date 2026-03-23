@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin">
   </a>
   <a href="saramorais024@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
+  <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://www.behance.net/saramoraisds">
     <img src="https://img.shields.io/badge/Behance-000?style=for-the-badge&logo=behance">
