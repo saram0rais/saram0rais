@@ -15,21 +15,26 @@
 ---
 
 ## About me
+
 <table>
-  <tr>
-    <td>
-      Hello! I'm **Sara Santos**, a Data Science student.
+<tr>
+<td width="50%" valign="top">
 
-- Studying Data Science and Software Development
-- Currently learning: C#, Python, SQL, Data Analysis
-- Interested in Data Science, Analytics & Development
-- Hobby: Read
+Hello! I'm **Sara Santos**, a Data Science student.
 
-    </td>
-    <td>
-      <img src="https://i.pinimg.com/originals/90/51/cd/9051cd1699d8afa08225fdb6cd8ca1f4.gif" width="250>
-    </td>
-  </tr>
+- 🎓 Studying Data Science & Software Development  
+- 💻 Learning C#, Python, SQL, Data Analysis  
+- 📊 Interested in Data Science, Analytics & Development  
+- 📚 Hobby: Reading  
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://i.pinimg.com/originals/90/51/cd/9051cd1699d8afa08225fdb6cd8ca1f4.gif" width="250"/>
+
+</td>
+</tr>
 </table>
 
   ---
