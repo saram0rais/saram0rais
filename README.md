@@ -50,10 +50,6 @@ I have a strong interest in both back-end and front-end development, and I enjoy
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3">
   <img src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular">
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git">
-  <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp">
-  <img src="https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet">
-  <img src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular">
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git">
 </div>
 
   ---
