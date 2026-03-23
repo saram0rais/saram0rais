@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin">
   </a>
   <a href="saramorais024@gmail.com">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://www.behance.net/saramoraisds">
     <img src="https://img.shields.io/badge/Behance-000?style=for-the-badge&logo=behance">
@@ -20,17 +20,16 @@
 <tr>
 <td width="50%" valign="top">
 
-Hello! I'm **Sara Santos**, a Data Science student.
+Hello! I'm **Sara Santos**, a Data Science student. I have a strong interest in both back-end and front-end development, and I enjoy exploring different tools and technologies that help me build efficient and scalable solutions.
 
-- 🎓 Studying Data Science & Software Development  
-- 💻 Learning C#, Python, SQL, Data Analysis  
-- 📊 Interested in Data Science, Analytics & Development  
-- 📚 Hobby: Reading  
+- _Studying Data Science & Software Development_  
+- _Learning C#, Python, SQL, Data Analysis_  
+- _Interested in Data Science, Analytics & Development_  
+- _Hobby: Reading_ 
 
 </td>
 
 <td width="50%" align="center">
-
 <img src="https://i.pinimg.com/originals/90/51/cd/9051cd1699d8afa08225fdb6cd8ca1f4.gif" width="250"/>
 
 </td>
@@ -46,8 +45,11 @@ Hello! I'm **Sara Santos**, a Data Science student.
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql">
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git">
+
 </div>
 
   ---
